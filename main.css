@@ -1,0 +1,42 @@
+
+
+form{
+    border: 0px solid gainsboro;
+    width: 370px;
+    height: 230px;
+    padding-top: 1px;
+    display:inline-block;
+    margin-top: 5px;
+    margin-left: 310px;
+    padding: 10px;
+    line-height: 40px;
+}
+img{
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+    width: 200x;
+    height: 270px;
+    float: inline-start;
+    margin-left: 5px;
+    margin-top: 10px;
+    
+    
+}
+input{
+    border-radius: 10px;
+    height: 25px;
+    width: 17s0px;
+    border-right-style: none;
+    margin-right: 0px;
+
+}
+button{
+    border-radius: 10px;
+    
+    height: 30px;
+    width: 80px;
+    
+    margin-left: 0px;
+    color: gainsboro;
+    background-color: black;
+}
